@@ -1,0 +1,10 @@
+﻿@model SystemKurierskiPracaInzynierska.Core.Containers.Order
+
+@using (Html.BeginForm())
+{
+    @Html.DropDownListFor(o=>o.Status_idStatus, new SelectList(ViewBag.StatusList, "idStatus", "StatusName"), "Select Package...", new { @class = "form-control" })
+<div class="text-center">
+    <div style="margin-top:10px"></div>
+    <input class="btn btn-primary" type="submit" value="Zatwierdź" />
+</div>
+}

@@ -1,0 +1,38 @@
+﻿@model SystemKurierskiPracaInzynierska.Core.Containers.Order
+
+
+<table class="table table-striped table-hover" style="width: 100%">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Order Date</th>
+            <th>Modification Order Date</th>
+            <th>Package To</th>
+            <th>Weight</th>
+            <th>Status</th>
+            <th></th>
+        
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.idOrder</td>
+            <td>@Model.OrderDate</td>
+            <td>@Model.ModificationOrderDate</td>
+            <td>@Model.Person.City.CityName</td>
+            <td>@Model.Package.Weight kg</td>
+            <td>
+                @if (@Model.Status_idStatus == 2)
+                {
+
+                    @Model.Status.StatusName <br /> @Model.Person.City.CityName
+                }
+                else
+                {
+                    @Model.Status.StatusName
+                }           
+            </td>
+            <td>@Html.ActionLink("Change Location","ChangeLocation", "Home", new { id = Model.idOrder }, new { @class = "btn btn-success btn-sm" })</td>
+
+        </tr>
+  </table>

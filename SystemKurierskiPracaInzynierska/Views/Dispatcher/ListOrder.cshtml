@@ -1,0 +1,66 @@
+﻿@model List<SystemKurierskiPracaInzynierska.Core.Containers.Order>
+
+
+<table class="table table-striped table-hover" style="width: 100%">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Name Receiver</th>
+            <th>Adress</th>
+            <th>Phone Number</th>
+            <th>Modification Order Date</th>
+            <th>Weight</th>
+            <th>Status</th>
+
+        </tr>
+    </thead>
+    <tbody>
+       
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.idOrder</td>
+                    <td>
+                        <div class="col-md-3">
+                            @item.Person.Name
+                            @item.Person.Surname 
+                        </div>
+                    </td>
+                    <td>
+                            @if (@item.Person.ApartmentNumber != null)
+                                {
+                            @item.Person.Street <label> </label> 
+                            @item.Person.HouseNumber <label>/</label> @item.Person.ApartmentNumber
+                              }
+                            else
+                                {
+                                @item.Person.Street <label> </label> @item.Person.HouseNumber
+                                }
+                    <br/>
+                            @item.Person.PostCode @item.Person.City.CityName
+                    </td>
+                    <td>   
+                        <div class="col-md-3">
+                            @item.Person.PhoneNumber
+                        </div>
+                    </td>
+                    <td>@item.ModificationOrderDate</td>
+                    <td>@item.Package.Weight kg</td>
+                    <td>
+                        @if (@item.Status_idStatus == 2)
+                        {
+                             
+                       @item.Status.StatusName<br/> @item.Person.City.CityName
+                        }
+                        else
+                        {
+                            @item.Status.StatusName 
+                        }
+                    </td>
+                    <td>@Html.ActionLink("Change Status", "EditStatus", new { id = @item.idOrder }, new { @class = "btn btn-success btn-sm" })</td>
+                </tr>
+
+            }
+
+ </tbody>     
+</table>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="hujwdupekonia.hostingasp.pl" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\Projekt\ Inzynierka\\systemkurierskipracainzynierska23\.10\\systemkurierski\\SystemKurierskiPracaInzynierska\\obj\\Debug\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^E:\\Projekt\ Inzynierka\\systemkurierskipracainzynierska23\.10\\systemkurierski\\SystemKurierskiPracaInzynierska\\obj\\Debug\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="AppCourierContext-Web.config Connection String" description="" value="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-SystemKurierskiPracaInzynierska-20170910091949.mdf;Initial Catalog=aspnet-SystemKurierskiPracaInzynierska-20170910091949;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="E:\\Projekt\ Inzynierka\\systemkurierskipracainzynierska23\.10\\systemkurierski\\SystemKurierskiPracaInzynierska\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='AppCourierContext']/@connectionString" />
+  </parameter>
+</parameters>

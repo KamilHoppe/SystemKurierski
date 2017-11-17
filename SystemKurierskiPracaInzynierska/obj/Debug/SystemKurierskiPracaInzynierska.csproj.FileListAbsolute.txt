@@ -1,0 +1,1144 @@
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.csprojResolveAssemblyReference.cache
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\ApplicationInsights.config
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\csc.exe
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\System.Collections.Immutable.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\System.Reflection.Metadata.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\vbc.exe
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe.config
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll.config
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.pdb
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Web.Infrastructure.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Owin.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\WebGrease.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.pdb
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.pdb
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.pdb
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.pdb
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.dll
+E:\Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.pdb
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\ApplicationInsights.config
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\csc.exe
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\vbc.exe
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll.config
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.pdb
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Owin.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\WebGrease.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.pdb
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.pdb
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.pdb
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.pdb
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.csprojResolveAssemblyReference.cache
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.dll
+C:\Users\Damien\Desktop\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.pdb
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\ApplicationInsights.config
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\csc.exe
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\System.Collections.Immutable.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\vbc.exe
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe.config
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll.config
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.pdb
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Web.Infrastructure.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Owin.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\WebGrease.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.pdb
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.pdb
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.pdb
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.pdb
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.csprojResolveAssemblyReference.cache
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.dll
+E:\Projekt Inzynierka\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.pdb
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\ApplicationInsights.config
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\csc.exe
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\vbc.exe
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll.config
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.pdb
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Owin.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\WebGrease.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.pdb
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.pdb
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.pdb
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.pdb
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.csprojResolveAssemblyReference.cache
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.pdb
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Geocoding.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\GoogleMapsApi.dll
+C:\Users\Damien\Desktop\Nowy folder (2)\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\GoogleMapsApi.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\ApplicationInsights.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\csc.exe
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\System.Collections.Immutable.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\vbc.exe
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Geocoding.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\GoogleMapsApi.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Web.Infrastructure.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\WebGrease.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\GoogleMapsApi.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.csprojResolveAssemblyReference.cache
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 29.09.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\ApplicationInsights.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\csc.exe
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\System.Collections.Immutable.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\vbc.exe
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Geocoding.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\GoogleMapsApi.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Web.Infrastructure.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\WebGrease.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\GoogleMapsApi.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.csprojResolveAssemblyReference.cache
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska 05.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.pdb
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\ApplicationInsights.config
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\csc.exe
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\vbc.exe
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll.config
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.pdb
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Geocoding.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\GoogleMapsApi.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Owin.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\WebGrease.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.pdb
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.pdb
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.pdb
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\GoogleMapsApi.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.pdb
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.dll
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.pdb
+C:\Users\Damien\Desktop\systemkurierskipracainzynierska 13.10.2017\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.csprojResolveAssemblyReference.cache
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\ApplicationInsights.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\csc.exe
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\System.Collections.Immutable.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\vbc.exe
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Geocoding.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\GoogleMapsApi.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Web.Infrastructure.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\WebGrease.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\GoogleMapsApi.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.csprojResolveAssemblyReference.cache
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska22\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\ApplicationInsights.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\csc.exe
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\System.Collections.Immutable.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\vbc.exe
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Geocoding.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\GoogleMapsApi.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Web.Infrastructure.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\WebGrease.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\GoogleMapsApi.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.csprojResolveAssemblyReference.cache
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10.2017\systemkurierskipracainzynierska22\SystemKurierskiPracaInzynierska\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\ApplicationInsights.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\csc.exe
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\System.Collections.Immutable.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\vbc.exe
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\EntityFramework.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Geocoding.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\GoogleMapsApi.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Web.Infrastructure.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\WebGrease.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\GoogleMapsApi.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\EntityFramework.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.csprojResolveAssemblyReference.cache
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska18.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\ApplicationInsights.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\csc.exe
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\System.Collections.Immutable.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\vbc.exe
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\roslyn\VBCSCompiler.exe.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\EntityFramework.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Geocoding.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\GoogleMapsApi.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Web.Infrastructure.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\WebGrease.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\GoogleMapsApi.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\EntityFramework.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.csprojResolveAssemblyReference.cache
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierski\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\ApplicationInsights.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\EntityFramework.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Geocoding.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\GoogleMapsApi.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Web.Infrastructure.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\WebGrease.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\GoogleMapsApi.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\EntityFramework.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.csprojResolveAssemblyReference.cache
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska23.10\systemkurierski\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.csprojResolveAssemblyReference.cache
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\obj\Debug\SystemKurierskiPracaInzynierska.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\ApplicationInsights.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll.config
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\EntityFramework.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Geocoding.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\GoogleMapsApi.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Web.Infrastructure.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Owin.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\WebGrease.dll
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Core.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.DataAccess.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\SystemKurierskiPracaInzynierska.Domain.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\GoogleMapsApi.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.Web.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AI.WindowsServer.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.ApplicationInsights.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Helpers.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Mvc.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Optimization.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.Razor.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Deployment.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\System.Web.WebPages.Razor.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Antlr3.Runtime.pdb
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Newtonsoft.Json.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\EntityFramework.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\EntityFramework.SqlServer.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Google.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projekt Inzynierka\systemkurierskipracainzynierska29.10\systemkurierski\SystemKurierskiPracaInzynierska\bin\Microsoft.Owin.Security.MicrosoftAccount.xml

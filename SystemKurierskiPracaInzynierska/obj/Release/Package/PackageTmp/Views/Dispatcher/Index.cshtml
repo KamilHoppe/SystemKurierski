@@ -1,0 +1,178 @@
+﻿
+@model SystemKurierskiPracaInzynierska.Core.Containers.PersonSenderReceiver
+@{
+    ViewBag.Title = "Index";
+}
+
+@using (Html.BeginForm())
+{
+    <div class="row">
+        <!-- Receiver -->
+        <div class="col-sm-4">
+            <div class="panel panel-info">
+                <div class="panel-heading">
+                    <center><h4>Receiver</h4></center>
+                </div>
+                <div class="panel-body">
+
+
+                    @Html.TextBoxFor(receiver => receiver.PersonReceiver.Name, new { @class = "form-control", @placeholder = "Name" })
+                    @Html.ValidationMessageFor(receiver => receiver.PersonReceiver.Name, "", new { @style = "color:red" })
+
+                    <br />
+                    @Html.TextBoxFor(receiver => receiver.PersonReceiver.Surname, new { @class = "form-control", @placeholder = "Surname" })
+                    @Html.ValidationMessageFor(receiver => receiver.PersonReceiver.Surname, "", new { @style = "color:red" })
+                    <br />
+                    @Html.DropDownListFor(receiver => receiver.PersonReceiver.idCity, new SelectList(ViewBag.city, "idCity", "CityName"), "Select City...", new { @class = "form-control" })
+                    @Html.ValidationMessageFor(receiver => receiver.PersonReceiver.idCity, "", new { @style = "color:red" })
+                    <br />
+                    @Html.TextBoxFor(receiver => receiver.PersonReceiver.PostCode, new { @class = "form-control", @placeholder = "PostCode" })
+                    @Html.ValidationMessageFor(receiver => receiver.PersonReceiver.PostCode, "", new { @style = "color:red" })
+                    <br />
+                    @Html.TextBoxFor(receiver => receiver.PersonReceiver.Street, new { @class = "form-control", @placeholder = "Street" })
+                    @Html.ValidationMessageFor(receiver => receiver.PersonReceiver.Street, "", new { @style = "color:red" })
+                    <br />
+                    @Html.TextBoxFor(receiver => receiver.PersonReceiver.HouseNumber, new { @class = "form-control", @placeholder = "House Number" })
+                    @Html.ValidationMessageFor(receiver => receiver.PersonReceiver.HouseNumber, "", new { @style = "color:red" })
+                    <br />
+                    @Html.TextBoxFor(receiver => receiver.PersonReceiver.ApartmentNumber, new { @class = "form-control", @placeholder = "Apartment number" })
+                    @Html.ValidationMessageFor(receiver => receiver.PersonReceiver.ApartmentNumber, "", new { @style = "color:red" })
+                    <br />
+                    @Html.TextBoxFor(receiver => receiver.PersonReceiver.PhoneNumber, new { @class = "form-control", @placeholder = "Phone Number" })
+                    @Html.ValidationMessageFor(receiver => receiver.PersonReceiver.PhoneNumber, "", new { @style = "color:red" })
+                    <br />
+                    @Html.TextBoxFor(receiver => receiver.PersonReceiver.Email, new { @class = "form-control", @placeholder = "Email" })
+                    @Html.ValidationMessageFor(receiver => receiver.PersonReceiver.Email, "", new { @style = "color:red" })
+                    <br />
+
+                </div>
+            </div>
+        </div>
+        <!-- Panel Sender -->
+        <div class="col-sm-4">
+            <div class="panel panel-info">
+                <div class="panel-heading">
+                    <center><h4>Sender</h4></center>
+                </div>
+                <div class="panel-body">
+
+                    @Html.TextBoxFor(sender => sender.PersonSender.Name, new { @class = "form-control", @placeholder = "Name" })
+                    @Html.ValidationMessageFor(sender => sender.PersonSender.Name, "", new { @style = "color:red" })
+                    <br />
+                    @Html.TextBoxFor(sender => sender.PersonSender.Surname, new { @class = "form-control", @placeholder = "Surname" })
+                    @Html.ValidationMessageFor(sender => sender.PersonSender.Surname, "", new { @style = "color:red" })
+                    <br />
+                    @Html.DropDownListFor(sender => sender.PersonSender.idCity, new SelectList(ViewBag.city, "idCity", "CityName"), "Select City...", new { @class = "form-control" })
+                    @Html.ValidationMessageFor(sender => sender.PersonSender.idCity, "", new { @style = "color:red" })
+                    <br />
+                    @Html.TextBoxFor(sender => sender.PersonSender.PostCode, new { @class = "form-control", @placeholder = "PostCode" })
+                    @Html.ValidationMessageFor(sender => sender.PersonSender.PostCode, "", new { @style = "color:red" })
+                    <br />
+                    @Html.TextBoxFor(sender => sender.PersonSender.Street, new { @class = "form-control", @placeholder = "Street" })
+                    @Html.ValidationMessageFor(sender => sender.PersonSender.Street, "", new { @style = "color:red" })
+                    <br />
+                    @Html.TextBoxFor(sender => sender.PersonSender.HouseNumber, new { @class = "form-control", @placeholder = "House Number" })
+                    @Html.ValidationMessageFor(sender => sender.PersonSender.HouseNumber, "", new { @style = "color:red" })
+                    <br />
+                    @Html.TextBoxFor(sender => sender.PersonSender.ApartmentNumber, new { @class = "form-control", @placeholder = "Apartment number" })
+                    @Html.ValidationMessageFor(sender => sender.PersonSender.ApartmentNumber, "", new { @style = "color:red" })
+                    <br />
+                    @Html.TextBoxFor(sender => sender.PersonSender.PhoneNumber, new { @class = "form-control", @placeholder = "Phone Number" })
+                    @Html.ValidationMessageFor(sender => sender.PersonSender.PhoneNumber, "", new { @style = "color:red" })
+                    <br />
+                    @Html.TextBoxFor(sender => sender.PersonSender.Email, new { @class = "form-control", @placeholder = "Email" })
+                    @Html.ValidationMessageFor(sender => sender.PersonSender.Email, "", new { @style = "color:red" })
+                    <br />
+
+                </div>
+
+            </div>
+
+
+        </div>
+        <!-- Panel Package -->
+        <div class="col-sm-4">
+            <div class="panel panel-info">
+                <div class="panel-heading">
+                    <center><h4>Package</h4></center>
+                </div>
+                <div class="panel-body">
+                    @Html.DropDownListFor(p => p.Package.idPackage, new SelectList(ViewBag.package, "idPackage", "PackageType"), "Select Package...", new { @class = "form-control", id = "ddlPackageType", onchange = "GetSelectedTextValue(this)" })
+                    @Html.ValidationMessageFor(p => p.Package.idPackage, "", new { @style = "color:red" })
+                    <br />
+                    <label id="SizeX">Size X:</label>
+                    <br />
+                    <label id="SizeY">Size Y:</label>
+                    <br />
+                    <label id="SizeZ">Size Z:</label>
+                    <br />
+                    <label id="Weight">Weight:</label>
+                    <br />
+                    <label id="Price">Price:</label>
+                    <br />
+                    <label id="InsurancePrice">InsurancePrice:</label>
+                    <br />
+                </div>
+
+            </div>
+                <div class="panel panel-info">
+                    <div class="panel-heading">
+                        <center><h4>Add Courier to Package</h4></center>
+                    </div>
+                    <div class="panel-body">
+                        @Html.DropDownListFor(p => p.Order.idCourier, (IEnumerable<SelectListItem>)ViewBag.Users, "Select Courier...", new { @class = "form-control", onchange = "GetSelectedTextValue(this)" })
+                        @Html.ValidationMessageFor(p => p.Order.idCourier, "", new { @style = "color:red" })
+                    </div>
+                </div>
+            </div>   
+        </div>
+        <div class="text-center">    
+            <input class="btn btn-primary" type="submit" value="Confirm" />
+        </div>
+}
+            <script src="~/Scripts/jquery-1.10.2.js"></script>
+            <script>
+                function GetSelectedTextValue(ddlPackageType) {
+                    var selectedValue = ddlPackageType.value;
+
+                    if (ddlPackageType.value == 0) {
+                        $("#SizeX").text("Size X: ")
+                        $("#SizeY").text("Size Y: ");
+                        $("#SizeZ").text("Size Z: ");
+                        $("#Weight").text("Weight: ")
+                        $("#Price").text("Price: ");
+                        $("#InsurancePrice").text("Insurance Price: ");
+                    }
+                    else if (ddlPackageType.value == 1) {
+                        $("#SizeX").text("Size X: 8 cm")
+                        $("#SizeY").text("Size Y: 38 cm");
+                        $("#SizeZ").text("Size Z: 64 cm");
+                        $("#Weight").text("Weight: 5 kg")
+                        $("#Price").text("Price: 10 PLN");
+                        $("#InsurancePrice").text("Insurance Price: 2 PLN");
+                    }
+                    else if (ddlPackageType.value == 2) {
+                        $("#SizeX").text("Size X: 16 cm");
+                        $("#SizeY").text("Size Y: 38 cm");
+                        $("#SizeZ").text("Size Z: 64 cm");
+                        $("#Weight").text("Weight: 10 kg")
+                        $("#Price").text("Price: 15 PLN");
+                        $("#InsurancePrice").text("Insurance Price: 3 PLN");
+                    }
+                    else if (ddlPackageType.value == 3) {
+                        $("#SizeX").text("Size X: 48 cm");
+                        $("#SizeY").text("Size Y: 38 cm");
+                        $("#SizeZ").text("Size Z: 64 cm");
+                        $("#Weight").text("Weight: 15 kg")
+                        $("#Price").text("Price: 20 PLN");
+                        $("#InsurancePrice").text("Insurance Price: 4 PLN");
+                    }
+                }
+            </script>
+
+
+
+
+
+
+

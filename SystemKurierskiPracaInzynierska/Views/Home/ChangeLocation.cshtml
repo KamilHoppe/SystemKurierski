@@ -1,0 +1,30 @@
+﻿<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAWOeHV0GwBAdUD7aBSGO1mgaKNlnwvGh4"></script>
+<script type="text/javascript">
+if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(function (p) {
+        var LatLng = new google.maps.LatLng(p.coords.latitude, p.coords.longitude);
+
+        var lat = p.coords.latitude;
+        var lng = p.coords.longitude;
+   
+        jQuery.ajax({
+            type: "POST",
+            url: "@Url.Action("ChangeLocation")",
+            dataType: "json",
+        contentType: "application/json; charset=utf-8",
+        data: JSON.stringify({ lat:lat,lng:lng}),
+        success: function (response) {
+            if (response.result == 'Redirect')
+                window.location = response.url;
+        },
+        failure: function (errMsg) {
+            alert(errMsg);
+        }
+    });
+    });
+} else {
+    alert('Geo Location feature is not supported in this browser.');
+}
+</script>
+
+
