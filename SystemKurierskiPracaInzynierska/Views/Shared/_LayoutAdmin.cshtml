@@ -23,7 +23,6 @@
                 <ul class="nav navbar-nav">
              
                     <li>@Html.ActionLink("Edit Role", "Edit", "Roles")</li>
-                    <li>@Html.ActionLink("FAQ", "FAQ", "Roles")</li>
                 </ul>
                 @Html.Partial("_LoginPartial")
             </div>
@@ -36,8 +35,8 @@
             <p>&copy; @DateTime.Now.Year - Courier System</p>
         </footer>
     </div>
-
     @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
     @Scripts.Render("~/bundles/bootstrap")
     @RenderSection("scripts", required: false)
 </body>

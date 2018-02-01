@@ -12,6 +12,7 @@ namespace SystemKurierskiPracaInzynierska.Core.Containers
     {
        
         [Key]
+        [Required(ErrorMessage = "City is required")]
         public int idCity { get; set; }
         public string CityName { get; set; }
         [ForeignKey("Province")]

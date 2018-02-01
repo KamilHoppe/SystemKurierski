@@ -13,8 +13,8 @@ namespace SystemKurierskiPracaInzynierska.Controllers
     public class RolesController : Controller
     {
 
-   //     [Authorize(Roles = "Admin")]
-        public ActionResult Index()
+        [Authorize(Roles = "Admin")]
+        public ActionResult Index() //load all dropdownlist
         {
             // Populate Dropdown Lists
             var context = new Models.ApplicationDbContext();
@@ -32,7 +32,7 @@ namespace SystemKurierskiPracaInzynierska.Controllers
             return View();
         }
 
-        //     [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin")]
         // GET: /Roles/Create
         public ActionResult Create()
         {
@@ -62,7 +62,7 @@ namespace SystemKurierskiPracaInzynierska.Controllers
             }
         }
 
-        //     [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin")]
         public ActionResult Delete(string RoleName)
         {
             var context = new Models.ApplicationDbContext();
@@ -72,7 +72,7 @@ namespace SystemKurierskiPracaInzynierska.Controllers
             return RedirectToAction("Index");
         }
 
-        //     [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin")]
         // GET: /Roles/Edit/5
         public ActionResult Edit(string roleName)
         {
@@ -102,7 +102,7 @@ namespace SystemKurierskiPracaInzynierska.Controllers
             }
         }
 
-        //     [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin")]
         //  Adding Roles to a user
         [HttpPost]
         [ValidateAntiForgeryToken]
@@ -134,7 +134,7 @@ namespace SystemKurierskiPracaInzynierska.Controllers
             return View("Index");
         }
 
-        //     [Authorize(Roles = "Admin")]
+         [Authorize(Roles = "Admin")]
         //Getting a List of Roles for a User
         [HttpPost]
         [ValidateAntiForgeryToken]
@@ -161,7 +161,7 @@ namespace SystemKurierskiPracaInzynierska.Controllers
 
             return View("Index");
         }
-        //     [Authorize(Roles = "Admin")]
+        [Authorize(Roles = "Admin")]
         //Deleting a User from A Role
         [HttpPost]
         [ValidateAntiForgeryToken]

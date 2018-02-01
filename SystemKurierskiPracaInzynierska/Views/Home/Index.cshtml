@@ -2,7 +2,7 @@
 @{
     ViewBag.Title = "Index";
 }
-
+<br />
 <div class="form-group">
 
     @using (Html.BeginForm())
@@ -10,12 +10,16 @@
     {
         <div style="margin-top:10px"></div>
         <label class="control-label" for="focusedInput">Please write your order code: </label>
-        @Html.TextBoxFor(order => order.idOrder, new { @class = "form-control"})
+        @Html.TextBoxFor(order => order.idOrder, new { @class = "form-control",@type="number"})
+        @Html.ValidationMessageFor(order => order.idOrder, "", new { @style = "color:red" })
         <div style="margin-top:10px"></div>
         <input class="btn btn-primary btn-sm" type="submit" value="Search" />
+     
+  
       
     }
 </div>
+
 @if (Model != null)
 {
     @Html.Partial("UserList", Model)

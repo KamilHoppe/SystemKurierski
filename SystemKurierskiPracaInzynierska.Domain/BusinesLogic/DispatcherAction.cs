@@ -23,7 +23,7 @@ namespace SystemKurierskiPracaInzynierska.Domain.BusinesLogic
                 return true;
             }
         }     
-        public City NameCity (int idCity)
+        public City NameCity (int idCity) //Get idCity To DispatcherController from database table City
         {
             DispatcherOperation dispatcherOperation = new DispatcherOperation();
             return dispatcherOperation.getCityName(idCity);

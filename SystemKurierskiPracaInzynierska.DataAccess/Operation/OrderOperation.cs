@@ -21,7 +21,7 @@ namespace SystemKurierskiPracaInzynierska.DataAccess.Operation
                          join s in db.Status on o.Status_idStatus equals s.idStatus
                          join p in db.Packages on o.Package_idPackage equals p.idPackage                      
                          join pp in db.Person on o.idPersonReceiver equals pp.idPerson
-                         join cc in db.Cities on o.Person.idCity equals cc.idCity
+                         join cc in db.Cities on pp.idCity equals cc.idCity
                          where o.idOrder == idOrder
                          select new{
                                  o,s,p,pp,cc
@@ -38,9 +38,9 @@ namespace SystemKurierskiPracaInzynierska.DataAccess.Operation
             return order;
         }
 
-        public List<Markers> getLocation(string id)
+        public List<Markers> getLocation(string id)  //Get package per Courier
         {     
-            List<Markers> markers = new List<Markers>();        
+            List<Markers> markers = new List<Markers>();
             using (var db = new AppCourierContext())
             {
                 //var result = db.Orders.Where(o=>o.idCourier==id
@@ -48,7 +48,7 @@ namespace SystemKurierskiPracaInzynierska.DataAccess.Operation
                 var result = from o in db.Orders
                              join pp in db.Person on o.idPersonReceiver equals pp.idPerson
                              join cc in db.Cities on o.Person.idCity equals cc.idCity
-                             where o.idCourier == id && o.Status_idStatus == 1
+                             where o.idCourier == id && (o.Status_idStatus == 1 || o.Status.idStatus==2)
                              select new
                              {
                                  o,
@@ -81,7 +81,7 @@ namespace SystemKurierskiPracaInzynierska.DataAccess.Operation
             return markers;
     }
 
-        public void ChangeStatusToDelivered(string lat,string lng)
+        public void ChangeStatusToDelivered(string lat,string lng) // if status =3 and currier click 'submit' on marker then package deliveried
         {
 
             var db = new AppCourierContext();
@@ -89,7 +89,7 @@ namespace SystemKurierskiPracaInzynierska.DataAccess.Operation
             var cust = (from c in db.Orders  where c.Latitude == lat && c.Longitude == lng
                         select c).First();
 
-            cust.Status_idStatus = 2;
+            cust.Status_idStatus = 3;
             cust.ModificationOrderDate = System.Convert.ToDateTime(DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"));
             cust.OrderCollectionDate = System.Convert.ToDateTime(DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"));
             db.SaveChanges();

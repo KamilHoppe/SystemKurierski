@@ -14,7 +14,7 @@ namespace SystemKurierskiPracaInzynierska.Controllers
     public class HomeController : Controller
     {
 
-        public ActionResult Index()
+        public ActionResult Index() //load layout for clients
         {
             if (User.IsInRole("Courier"))
             {
@@ -33,11 +33,21 @@ namespace SystemKurierskiPracaInzynierska.Controllers
         }
 
         [HttpPost]
-        public ActionResult Index(Order order)
+        public ActionResult Index(Order order) //get order for user
         {
-
-            OrderAction orderAction = new OrderAction();
-            return View(orderAction.GetOrder(order.idOrder));
+            AppCourierContext dbcontext = new AppCourierContext();
+            bool ifExists = dbcontext.Orders.Any(x => x.idOrder == order.idOrder);
+            if (ifExists)
+            {
+                OrderAction orderAction = new OrderAction();
+                return View(orderAction.GetOrder(order.idOrder));
+            }
+            else
+            {
+                ModelState.AddModelError("idOrder", "Number order not found. Please check your order number.");
+                return View();
+            }
+           
         }
 
         public ActionResult ChangeLocation(int id = 0)
@@ -54,7 +64,7 @@ namespace SystemKurierskiPracaInzynierska.Controllers
             return View(order);
         }
         [HttpPost]
-        public ActionResult ChangeLocation(int id, Markers marker)
+        public ActionResult ChangeLocation(int id, Markers marker) // change location for client
         {          
             var lat = marker.lat.Replace(",", ".");
             var lng = marker.lng.Replace(",", ".");

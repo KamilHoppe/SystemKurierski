@@ -19,7 +19,7 @@ namespace SystemKurierskiPracaInzynierska.Controllers
     public class DispatcherController : Controller
     {
         [Authorize(Roles = "Dispatcher")]
-        public ActionResult Index()
+        public ActionResult Index() // load all dropdownlist
         {
             AppCourierContext dbcontext = new AppCourierContext();
 
@@ -41,7 +41,7 @@ namespace SystemKurierskiPracaInzynierska.Controllers
         }
 
         [HttpPost]
-        public ActionResult Index(PersonSenderReceiver person,PersonSenderReceiver p)
+        public ActionResult Index(PersonSenderReceiver person,PersonSenderReceiver p) //Controller who add personreceiver and personsender to database per dispatcher
         {
             DispatcherAction dispatcherAction = new DispatcherAction();
             OrderAction orderAction = new OrderAction();
@@ -106,7 +106,7 @@ namespace SystemKurierskiPracaInzynierska.Controllers
 
      }
         [Authorize(Roles = "Dispatcher")]
-        public ActionResult ListOrder()
+        public ActionResult ListOrder() //List Order for Dispatcher
         {
             DispatcherOperation dispatcherOperation = new DispatcherOperation();
             var dispatcherID = User.Identity.GetUserId();
@@ -115,7 +115,7 @@ namespace SystemKurierskiPracaInzynierska.Controllers
         }
         [HttpGet]
         [Authorize(Roles = "Dispatcher")]
-        public ActionResult EditStatus(int id = 0)
+        public ActionResult EditStatus(int id = 0) //Get id for select package
         {
             AppCourierContext dbcontext = new AppCourierContext();
             Order order = dbcontext.Orders.Find(id);
@@ -130,11 +130,11 @@ namespace SystemKurierskiPracaInzynierska.Controllers
             return View(order);
         }
         [HttpPost]
-        public ActionResult EditStatus(Order order,int id)
+        public ActionResult EditStatus(Order order,int id) //Edit Status Package per Dispatcher
         {
             int Status = order.Status_idStatus; 
             AppCourierContext dbcontext = new AppCourierContext();
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
                 DispatcherOperation dispatcherOperation = new DispatcherOperation();
                 dispatcherOperation.UpdateStatus(id, Status);

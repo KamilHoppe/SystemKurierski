@@ -10,7 +10,7 @@ namespace SystemKurierskiPracaInzynierska.DataAccess.Operation
 {
    public class UserOperation
     {
-        public void UpdateLocation(int getIdOrder, string lat,string lng)
+        public void UpdateLocation(int getIdOrder, string lat,string lng) //Change location per User
         {
             AppCourierContext db = new AppCourierContext();
             var query = from ord in db.Orders

@@ -10,7 +10,7 @@ namespace SystemKurierskiPracaInzynierska.Domain.BusinesLogic
 {
     public class OrderAction
     {
-        public Order GetOrder(int idOrder)
+        public Order GetOrder(int idOrder) // Get GetOrder 
         {  
             OrderOperation getOrder = new OrderOperation();
             return getOrder.getOrder(idOrder);

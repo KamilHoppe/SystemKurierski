@@ -18,13 +18,13 @@ namespace SystemKurierskiPracaInzynierska.Controllers
     public class CourierController : Controller
     {
         [Authorize(Roles = "Courier")]
-        public ActionResult Index()
+        public ActionResult Index() 
         {
             
             OrderOperation orderOperation = new OrderOperation();
             var userID = User.Identity.GetUserId();
-            var lista = orderOperation.getLocation(userID);
-            return View(lista);
+            var list = orderOperation.getLocation(userID);
+            return View(list);
 
         }
 
@@ -39,18 +39,17 @@ namespace SystemKurierskiPracaInzynierska.Controllers
             string lng = words[1];
             orderOperation.ChangeStatusToDelivered(lat, lng);
             var userID = User.Identity.GetUserId();
-            var lista = orderOperation.getLocation(userID);
-
-            return View(lista);
+            var list = orderOperation.getLocation(userID);
+            return View(list);
 
         }
         [Authorize(Roles = "Courier")]
-        public ActionResult RoutePackage()
+        public ActionResult RoutePackage() //list package for courier
         {
             OrderOperation orderOperation = new OrderOperation();
             var userID = User.Identity.GetUserId();
-            var lista = orderOperation.getLocation(userID);
-            return View(lista);
+            var list = orderOperation.getLocation(userID);
+            return View(list);
 
         }
 

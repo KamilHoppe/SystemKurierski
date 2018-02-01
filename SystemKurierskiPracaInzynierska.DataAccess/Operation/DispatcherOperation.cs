@@ -57,7 +57,7 @@ namespace SystemKurierskiPracaInzynierska.DataAccess.Operation
                          join s in db.Status on o.Status_idStatus equals s.idStatus
                          join p in db.Packages on o.Package_idPackage equals p.idPackage
                          join pp in db.Person on o.idPersonReceiver equals pp.idPerson
-                         join cc in db.Cities on o.Person.idCity equals cc.idCity
+                         join cc in db.Cities on pp.idCity equals cc.idCity
                          where o.idDispatcher==getIdDispatcher
                          select new
                          {
@@ -74,7 +74,7 @@ namespace SystemKurierskiPracaInzynierska.DataAccess.Operation
             }
             return orders;
         }
-        public void UpdateStatus(int getIdOrder, int getStatus)
+        public void UpdateStatus(int getIdOrder, int getStatus) //Update status package
         {
             AppCourierContext db = new AppCourierContext();
             var query = from ord in db.Orders

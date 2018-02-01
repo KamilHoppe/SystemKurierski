@@ -10,6 +10,7 @@ namespace SystemKurierskiPracaInzynierska.Core.Containers
     public class Package
     {
         [Key]
+        [Required(ErrorMessage = "Package is required")]
         public int idPackage { get; set; }
         public string PackageType { get; set; }
         public byte SizeX { get; set; }

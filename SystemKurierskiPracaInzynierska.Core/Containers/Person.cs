@@ -31,6 +31,7 @@ namespace SystemKurierskiPracaInzynierska.Core.Containers
         [EmailAddress(ErrorMessage = "Invalid Email Address")]
         public string Email { get; set; }
         [ForeignKey("City")]
+        [Required(ErrorMessage = "City is required")]
         public int idCity { get; set; }
         public City City { get; set; }
         
